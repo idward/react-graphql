@@ -1,0 +1,29 @@
+.collection-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.material-icons {
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.vote {
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (min-width: 993px) {
+    .container {
+        width: 80%;
+    }
+}
+
+nav .nav-wrapper {
+    margin: 0 20px;
+    width: 95%;
+}
+
+.errorMessage {
+    color: red;
+}

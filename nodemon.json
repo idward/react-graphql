@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    "dist/",
+    "client/"
+  ],
+  "ext": "json js html"
+}
